@@ -17,11 +17,11 @@ a{
 }
 nav ul {
 background-color: sandybrown;
-border-style: solid;
+border-style: dashed;
 border-color: seashell;
-border-width: 2px;
+border-width: 3px;
 padding: 10px;
-border-radius: 10px;
+border-radius: 15pxpx;
 }
 nav ul li{
     list-style-type: none;
@@ -35,7 +35,7 @@ nav ul li a{
     color: olive;
 }
 img{
-    border-radius: 30px;
+    border-radius: 20px;
 }
 table, th, td{
 border: 1px solid brown;
@@ -50,8 +50,8 @@ th, td{
     text-align: center;
 }
 th{
-    color: darkblue;
+    color: rgb(3, 3, 66);
 }
 td{
-    color: purple;
+    color: rgb(233, 76, 14);
 }
